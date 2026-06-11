@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 
 # Customer Retention Analytics Dashboard
